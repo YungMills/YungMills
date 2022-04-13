@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YungMills
-- 👀 I’m interested in programming for datascience with R & Python.
-- 🌱 I’m currently learning Python & R.
-- 💞️ I’m looking to collaborate on any relevant development issuses.
+- 👀 I’m interested in creating highly interactive web apps for cliets
+- 🌱 I’m currently learning HTML/CSS libraries(Bootstrap & SASS), JavaScript front-end libraries & frameworks(React & Angular) .
+- 💞️ I’m looking to collaborate on any relevant development issuses & on sharing knowledge on Github.
 - 📫 How to reach me mayangas70@gmail.com.
 
 <!---
